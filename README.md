@@ -1,16 +1,30 @@
-### Hi there 👋
+```csharp
+[nonamecoder1337@arco ~]$ neofetch
+```
 
-<!--
-**nonamecoder1337/nonamecoder1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown
+                    /-                      nonamecoder1337@github
+                   ooo:                     ----------------
+                  yoooo/                           OS  :  ArcoLinux
+                 yooooooo                          DE  :  Plasma 5.22.5
+                yooooooooo                         WM  :  KWin
+               yooooooooooo                  WM Theme  :  Sweet-Dark-transparent
+             .yooooooooooooo                    Theme  :  Breeze Dark, Sweet-mars-v40
+            .oooooooooooooooo                   Icons  :  candy-icons
+           .oooooooarcoooooooo                  Shell  :  bash 5.1.8
+          .ooooooooo-oooooooooo              Terminal  :  cool-retro-term
+         .ooooooooo-  oooooooooo                  CPU  :  i5-4210H
+        :ooooooooo.    :ooooooooo           Languages  :  C#, Python
+       :ooooooooo.      :ooooooooo
+      :oooarcooo         .oooarcooo                                                                      
+     :ooooooooy           .ooooooooo                                                                                            
+    :ooooooooo   /ooooooooooooooooooo                                                                                          
+   :ooooooooo      .-ooooooooooooooooo.                                                                                           
+  ooooooooo-             -ooooooooooooo.                                                                                     
+ ooooooooo-                 .-oooooooooo.                                                                                   
+ooooooooo.                     -ooooooooo  
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://komarev.com/ghpvc/?username=nonamecoder1337&style=flat-square)
