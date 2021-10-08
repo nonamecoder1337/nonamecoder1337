@@ -2,8 +2,8 @@
 [nonamecoder1337@arco ~]$ neofetch
 ```
 ```python
-                    /-                      nonamecoder1337@github
-                   ooooo:                     ----------------
+                    /-                        nonamecoder1337@github
+                   ooooo:                     ----------------------
                   yoooooo/                           OS  :  ArcoLinux
                  yooooooooo                          DE  :  Plasma 5.22.5
                 yooooooooooo                         WM  :  KWin
