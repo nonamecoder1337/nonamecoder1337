@@ -12,8 +12,8 @@
             .oooooooooooooooooo                   Icons  :  candy-icons
            .ooooooooarcooooooooo                  Shell  :  bash 5.1.8
           .oooooooooo-ooooooooooo              Terminal  :  cool-retro-term
-         .oooooooooo-  ooooooooooo                  CPU  :  i5-4210H
-        :oooooooooo.    :oooooooooo           Languages  :  C#, Python
+         .oooooooooo-  ooooooooooo            Languages  :  Python, C#
+        :oooooooooo.    :oooooooooo           
        :oooooooooo.      :oooooooooo
       :oooaorcooo         .oooarocooo
      :oooooooooy           .oooooooooo
