@@ -4,16 +4,16 @@
 ```python
                     /-                        nonamecoder1337@github
                    ooooo:                     ----------------------
-                  yoooooo/                           OS  :  ArcoLinux
-                 yooooooooo                          DE  :  Plasma 5.22.5
-                yooooooooooo                         WM  :  KWin
-               yooooooooooooo                  WM Theme  :  Sweet-Dark-transparent
-             .yooooooooooooooo                    Theme  :  Breeze Dark, Sweet-mars-v40
-            .oooooooooooooooooo                   Icons  :  candy-icons
-           .ooooooooarcooooooooo                  Shell  :  bash 5.1.8
-          .oooooooooo-ooooooooooo              Terminal  :  cool-retro-term
-         .oooooooooo-  ooooooooooo            Languages  :  Python, C#
-        :oooooooooo.    :oooooooooo           
+                  yoooooo/                        
+                 yooooooooo                          OS  :  ArcoLinux
+                yooooooooooo                         DE  :  Plasma 5.22.5
+               yooooooooooooo                        WM  :  KWin
+             .yooooooooooooooo                 WM Theme  :  Sweet-Dark-transparent
+            .oooooooooooooooooo                   Theme  :  Breeze Dark, Sweet-mars-v40
+           .ooooooooarcooooooooo                  Icons  :  candy-icons
+          .oooooooooo-ooooooooooo                 Shell  :  bash 5.1.8
+         .oooooooooo-  ooooooooooo             Terminal  :  cool-retro-term
+        :oooooooooo.    :oooooooooo           Languages  :  Python, C#
        :oooooooooo.      :oooooooooo
       :oooaorcooo         .oooarocooo
      :oooooooooy           .oooooooooo
