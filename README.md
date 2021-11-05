@@ -15,7 +15,7 @@
          .oooooooooo-  ooooooooooo             Terminal  :  cool-retro-term
         :oooooooooo.    :oooooooooo           Languages  :  Python, C#
        :oooooooooo.      :oooooooooo
-      :oooaorcooo         .oooarocooo
+      :ooooarcooo         .oooarocooo
      :oooooooooy           .oooooooooo
     :oooooooooo   /oooooooooooooooooooo
    :oooooooooo      .-oooooooooooooooooo.
